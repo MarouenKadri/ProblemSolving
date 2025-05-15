@@ -18,7 +18,7 @@ public:
 
 class Derived : protected Base {
 };
-<div style="background-color: #0066cc; padding: 5px; margin-top: 20px;"> <h2 style="color: white; font-family: Arial; margin: 0;">QUE SE PASSE-T-IL ?</h2> </div>
+
 Héritage protégé :
 Derived hérite de Base avec le spécificateur protected
 
